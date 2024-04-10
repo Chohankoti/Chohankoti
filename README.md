@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **2100031265cseh@gmail.com**
 
-- 📄 Know about my experiences [https://chohanresume.s3.ap-south-1.amazonaws.com/Final+Resume.pdf](https://chohanresume.s3.ap-south-1.amazonaws.com/Final+Resume.pdf)
-
 - ⚡ Fun fact **"Meet the student who learns faster than Wi-Fi and self-motivates like a turbocharged cheerleader!"**
 
 <h3 align="left">PlatForms:</h3>
