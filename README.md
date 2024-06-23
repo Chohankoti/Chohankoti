@@ -10,7 +10,6 @@
 </p>
 
 <div align="left">
-  <h2>About Me</h2>
   <p>🌱 I am a passionate student with a diverse skill set and numerous web and app development achievements. I strive to write optimized and efficient code, ensuring high project performance and maintainability.</p>
   <p>📫 How to reach me: <strong>2100031265cseh@gmail.com</strong></p>
   <p>⚡ Fun fact: <em>"Meet the student who learns faster than Wi-Fi and self-motivates like a turbocharged cheerleader!"</em></p>
