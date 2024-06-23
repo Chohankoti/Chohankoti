@@ -20,22 +20,21 @@
 </p>
 
 
-# Koti Chohan's Tech Stack
-
 ## Tech and Skills
 
 | **Domain**                       | **Skills**                                                                      |
 |----------------------------------|---------------------------------------------------------------------------------|
-| **Programming Languages**        | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) Java, ![Python](https://img.icons8.com/color/48/000000/python.png) Python |
-| **Frontend**                     | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript, ![React](https://img.icons8.com/plasticine/100/000000/react.png) React, ![React Native](https://img.icons8.com/color/48/000000/react-native.png) React Native |
-| **Backend**                      | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js & Express, ![Django](https://img.icons8.com/color/48/000000/django.png) Django, ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot |
-| **Database**                     | ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) MySQL, ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB |
-| **Version Control**              | ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) GitHub |
-| **Cloud Services**               | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS |
-| **Automation**                   | ![UiPath](https://img.icons8.com/color/48/000000/uipath.png) UiPath |
-| **IDEs**                         | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code, ![Eclipse](https://img.icons8.com/officel/40/000000/java-eclipse.png) Eclipse, ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm, ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v2.png) Android Studio, ![Expo Go](https://img.icons8.com/color/48/000000/expo.png) Expo Go |
-| **API Testing & Documentation**  | ![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) Postman, ![Swagger](https://img.icons8.com/ios-filled/50/000000/swagger.png) Swagger |
-| **UI/UX**                        | ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) Figma |
+| **Programming Languages**        | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> |
+| **Frontend**                     | <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> |
+| **Backend**                      | <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/django.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="40" height="40"/> |
+| **Database**                     | <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40"/> |
+| **Version Control**              | <img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="40" height="40"/> |
+| **Cloud Services**               | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40"/> |
+| **Automation**                   | <img src="https://img.icons8.com/color/48/000000/uipath.png" width="40" height="40"/> |
+| **IDEs**                         | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/> <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/expo.png" width="40" height="40"/> |
+| **API Testing & Documentation**  | <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/swagger.png" width="40" height="40"/> |
+| **UI/UX**                        | <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40" height="40"/> |
+
 
 
 
