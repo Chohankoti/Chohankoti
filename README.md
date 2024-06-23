@@ -1,3 +1,6 @@
+![header](https://github.com/Chohankoti/Chohankoti/assets/110148983/5bf116b9-4ce1-491e-887f-afe69789a203)
+
+
 <h1 align="center">Hi 👋, I'm KOTI CHOHAN</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
