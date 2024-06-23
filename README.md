@@ -20,6 +20,7 @@
 </p>
 
 
+
 ## Tech and Skills
 
 | **Domain**                       | **Skills**                                                                      |
@@ -32,8 +33,10 @@
 | **Cloud Services**               | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40"/> |
 | **Automation**                   | <img src="https://img.icons8.com/color/48/000000/uipath.png" width="40" height="40"/> |
 | **IDEs**                         | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/> <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/expo.png" width="40" height="40"/> |
-| **API Testing & Documentation**  | <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/swagger.png" width="40" height="40"/> |
+| **API Testing & Documentation**  | <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40"/> <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" width="40" height="40"/> |
 | **UI/UX**                        | <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40" height="40"/> |
+
+
 
 
 
