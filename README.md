@@ -31,6 +31,59 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
 
+# Koti Chohan's Tech Stack
+
+## Programming Languages:
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) **Java**
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
+
+## Libraries/Frameworks:
+
+### Frontend:
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+- ![React](https://img.icons8.com/plasticine/100/000000/react.png) **React**
+- ![React Native](https://img.icons8.com/color/48/000000/react-native.png) **React Native**
+
+### Backend:
+- ![Django](https://img.icons8.com/color/48/000000/django.png) **Django**
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js & Express**
+- ![Hibernate](https://img.icons8.com/ios/50/000000/hibernate.png) **Hibernate**
+- ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring**
+- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**
+
+### Testing:
+- ![Pytest](https://img.icons8.com/fluency/48/000000/pytest.png) **Pytest**
+
+## Tools/Platforms:
+
+### Database:
+- ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL**
+
+### Version Control:
+- ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) **GitHub**
+
+### Cloud Services:
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS**
+
+### Automation:
+- ![UiPath](https://img.icons8.com/color/48/000000/uipath.png) **UiPath**
+
+### Mobile Development:
+- ![Expo Go](https://img.icons8.com/color/48/000000/expo.png) **Expo Go**
+- ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v2.png) **Android Studio**
+
+### API Testing & Documentation:
+- ![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) **Postman**
+- ![Swagger](https://img.icons8.com/ios-filled/50/000000/swagger.png) **Swagger**
+
+### IDEs:
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
+- ![Eclipse](https://img.icons8.com/officel/40/000000/java-eclipse.png) **Eclipse**
+- ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) **PyCharm**
+
+### UI/UX:
+- ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) **Figma**
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chohankoti&show_icons=true&locale=en&layout=compact" alt="chohankoti" /></p>
 
